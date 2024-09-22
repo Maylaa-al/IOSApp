@@ -1,0 +1,443 @@
+{
+    "Hyundai": [
+        {
+            "Model": "Elantra",
+            "id": 1,
+            "ImageL": [
+                "https://github.com/Maylaa-al/IOSApp/blob/main/ImagesL/ElantraBlack/Elantra%202025.png",
+                "https://github.com/Maylaa-al/IOSApp/blob/main/ImagesL/ElantraBlack/Elantra%202025%20Rare.png",
+                "https://github.com/Maylaa-al/IOSApp/blob/main/ImagesL/ElantraBlack/Elantra%202025%20Rare.png",
+                "https://github.com/Maylaa-al/IOSApp/blob/main/ImagesL/ElantraBlack/Elantra.png",
+                "https://github.com/Maylaa-al/IOSApp/blob/main/ImagesL/ElantraBlack/Elantra.jpg",
+                "https://github.com/Maylaa-al/IOSApp/blob/main/ImagesL/ElantraBlack/Elantra3.webp",
+                "https://github.com/Maylaa-al/IOSApp/blob/main/ImagesL/ElantraBlack/Elantra2.webp"
+            ],
+            "ImageS": "https://github.com/Maylaa-al/IOSApp/blob/main/ImagesS/ElantraB.png",
+            "Year": "2025",
+            "Description": "The 2025 Hyundai Elantra is a compact sedan known for its stylish design, fuel efficiency, and advanced technology. It offers a comfortable and refined driving experience, making it a popular choice in the segment.",
+            "Price": "$24000 – $33000",
+            "Features": {
+                "KeyFeatures": [
+                    "Smart stream 2.0L MPI 4-cylinder engine",
+                    "8.0\" Touch-screen display with Android Auto™ & Apple CarPlay™",
+                    "Heated front seats",
+                    "Forward Collision-Avoidance Assist (FCA) with Pedestrian and Cyclist Detection",
+                    "Lane Following Assist",
+                    "Lane Keeping Assist (LKA)",
+                    "LED headlights (MFR type)"
+                ],
+                "Safety": "Advanced driver-assistance systems (ADAS) like lane departure warning, forward collision warning, and adaptive cruise control",
+                "Technology": "Touchscreen infotainment system with Apple CarPlay and Android Auto compatibility, Bluetooth connectivity, and available wireless charging",
+                "Comfort": "Comfortable seating, ample legroom, and a spacious trunk",
+                "Performance": "Efficient engine options and a smooth-shifting transmission"
+            },
+            "Specifications": {
+                "Engine": "Available in various engine options, including gasoline and hybrid",
+                "Transmission": "Automatic or manual transmission options",
+                "FuelEconomy": "Excellent fuel efficiency for its class",
+                "Dimensions": "Compact size for easy maneuverability",
+                "Interior": "Modern and comfortable interior with ample space"
+            },
+            "Note": "For the most accurate and up-to-date information on the 2025 Hyundai Elantra, it's recommended to visit the official Hyundai website or consult with a local dealership."
+        },
+        {
+            "Model": "Elantra Hybrid",
+            "id": 2,
+            "ImageL": [
+                "https://github.com/Maylaa-al/IOSApp/blob/main/ImagesL/ElantraHybrid/ElantraHybrid.png",
+                "https://github.com/Maylaa-al/IOSApp/blob/main/ImagesL/ElantraHybrid/Elantra5.webp",
+                "https://github.com/Maylaa-al/IOSApp/blob/main/ImagesL/ElantraHybrid/ElantraLux1.webp",
+                "https://github.com/Maylaa-al/IOSApp/blob/main/ImagesL/ElantraHybrid/ElantraLux2.webp"
+            ],
+            "ImageS": "https://github.com/Maylaa-al/IOSApp/blob/main/ImagesS/Elantra.png",
+            "Year": "2025",
+            "Description": "The 2025 Hyundai Elantra Hybrid is a fuel-efficient compact sedan that combines a gasoline engine with an electric motor for enhanced performance and reduced emissions. It offers a comfortable and refined driving experience while delivering impressive fuel economy.",
+            "Price": "$22000 - $24000",
+            "HybridPackage": [
+                "Smartstream 1.6L GDI Atkinson Cycle DOHC in-line 4-cylinder hybrid engine",
+                "6-speed EcoShift Dual-Clutch Transmission",
+                "Multi-link rear suspension"
+            ],
+            "Features": {
+                "KeyFeatures": [
+                    "10.25\" colour touchscreen navigation system",
+                    "Sunroof, power tilt-and-slide",
+                    "10.25\" full digital display instrument cluster",
+                    "BlueLink® connected vehicle system",
+                    "Adaptive Cruise Control with traffic stop and go",
+                    "17\" alloy wheels",
+                    "Highway Driving Assist",
+                    "EPB - Electronic Parking Brake with autohold",
+                    "Digital Key",
+                    "Leatherette Seats",
+                    "Bose premium audio system with 8 speakers",
+                    "LED mirror-mounted turn signals"
+                ],
+                "Safety": "Advanced driver-assistance systems (ADAS) like lane departure warning, forward collision warning, and adaptive cruise control",
+                "Technology": "Touchscreen infotainment system with Apple CarPlay and Android Auto compatibility, Bluetooth connectivity, and available wireless charging",
+                "Comfort": "Comfortable seating, ample legroom, and a spacious trunk",
+                "Performance": "Efficient hybrid powertrain, smooth acceleration, and regenerative braking"
+            },
+            "Specifications": {
+                "Powertrain": "Hybrid powertrain combining a gasoline engine and an electric motor",
+                "Transmission": "Automatic transmission",
+                "FuelEconomy": "Excellent fuel efficiency, offering significant savings compared to traditional gasoline-powered vehicles",
+                "Range": "Electric-only mode for short distances, extending the overall range and reducing fuel consumption",
+                "Dimensions": "Compact size for easy maneuverability"
+            },
+            "Note": "For the most accurate and up-to-date information on the 2025 Hyundai Elantra Hybrid, it's recommended to visit the official Hyundai website or consult with a local dealership."
+        },
+        {
+            "Model": "Sonata",
+            "id": 3,
+            "ImageL": "www.somedomain.com",
+            "ImageS": "www.somedomain.com",
+            "Year": "2024",
+            "Description": "The 2024 Hyundai Sonata is a mid-size sedan known for its stylish design, comfortable interior, and advanced technology. It offers a balance of performance, efficiency, and value, making it a popular choice in its segment.",
+            "Price": "$35000 – $42000",
+            "Features": {
+                "KeyFeatures": [
+                    "Smartstream 2.5L GDI + MPI DOHC 16-valve Inline 4-cylinder engine",
+                    "8-speed Smartstream automatic transmission",
+                    "Available HTRAC™ All-Wheel Drive (AWD)",
+                    "Paddle shifters",
+                    "Shift-by-Wire (SBW) gear selector",
+                    "Drive Mode Select",
+                    "18\" aluminum alloy Wheels"
+                ],
+                "Safety": "Advanced driver-assistance systems (ADAS) like lane departure warning, forward collision warning, and adaptive cruise control",
+                "Technology": "Touchscreen infotainment system with Apple CarPlay and Android Auto compatibility, Bluetooth connectivity, and available wireless charging",
+                "Comfort": "Comfortable seating, ample legroom, and a spacious trunk",
+                "Performance": "Efficient engine options and a smooth-shifting transmission"
+            },
+            "Specification": {
+                "Engine": "Available in various engine options, including gasoline and hybrid",
+                "Transmission": "Automatic or manual transmission options",
+                "FuelEconomy": "Excellent fuel efficiency for its class",
+                "Dimensions": "Mid-size sedan with ample interior space",
+                "Interior": "Modern and comfortable interior with high-quality materials"
+            },
+            "Note": "For the most accurate and up-to-date information on the 2024 Hyundai Sonata, it's recommended to visit the official Hyundai website or consult with a local dealership."
+        },
+        {
+            "Model": "IONIQ6",
+            "id": 4,
+            "ImageL": "www.somedomain.com",
+            "ImageS": "www.somedomain.com",
+            "Year": "2025",
+            "Description": "The Hyundai IONIQ 6 is a sleek and aerodynamic electric sedan designed to offer a futuristic driving experience. It's known for its futuristic design, advanced technology, and impressive range.",
+            "Price": "$55000 – $61000",
+            "Features": {
+                "KeyFeatures": [
+                    "168kW Electric motor + 77.4kWh lithium-ion polymer high-voltage battery",
+                    "Ultra fast charging system (up to 800V/350 kW)",
+                    "Heat pump, battery thermal management, and preconditioning system",
+                    "Shift-by-Wire gear selector",
+                    "Drive Mode Select",
+                    "Regenerative braking system with steering-wheel mounted paddles",
+                    "4-wheel disc brakes",
+                    "Independent MacPherson strut suspension (front); Multi-link suspension (rear)",
+                    "Electronic Parking Brake with Vehicle AutoHold"
+                ],
+                "Safety": "Advanced driver-assistance systems (ADAS) like lane departure warning, forward collision warning, and adaptive cruise control",
+                "Technology": "Touchscreen infotainment system with Apple CarPlay and Android Auto compatibility, Bluetooth connectivity, and available wireless charging",
+                "Comfort": "Comfortable seating, ample legroom, and a spacious trunk",
+                "Performance": "Efficient engine options and a smooth-shifting transmission"
+            },
+            "Specifications": {
+                "Powertrain": "Electric motor with a high-voltage battery pack",
+                "Range": "Varies depending on driving conditions and options, but typically offers a competitive range for an electric sedan",
+                "Charging": "Supports both standard and fast charging",
+                "Performance": "Offers a balance of power and efficiency",
+                "Dimensions": "Mid-size sedan with a sleek and aerodynamic profile"
+            },
+            "Note": "For the most accurate and up-to-date information on the Hyundai IONIQ 6, it's recommended to visit the official Hyundai website or consult with a local dealership."
+        },
+        {
+            "Model": "TUCSON",
+            "id": 5,
+            "ImageL": "www.somedomain.com",
+            "ImageS": "www.somedomain.com",
+            "Year": "2025",
+            "Description": "The 2025 Hyundai Tucson is a compact SUV known for its stylish design, comfortable interior, and advanced technology. It offers a versatile and practical driving experience, making it a popular choice in the SUV segment.",
+            "Price": "$37000 – $55000",
+            "Features": {
+                "KeyFeatures": [
+                    "Smartstream 2.5L GDI + MPI DOHC 16-valve Inline 4-cylinder engine",
+                    "HTRAC™ All-Wheel Drive (AWD)",
+                    "8-speed automatic transmission",
+                    "Engine idle stop & go",
+                    "Paddle shifters",
+                    "Shift-by-Wire gear selector",
+                    "Drive Mode Select",
+                    "Electric Parking Brake"
+                ],
+                "Safety": "Advanced driver-assistance systems (ADAS) like lane departure warning, forward collision warning, and adaptive cruise control",
+                "Technology": "Touchscreen infotainment system with Apple CarPlay and Android Auto compatibility, Bluetooth connectivity, and available wireless charging",
+                "Comfort": "Comfortable seating, ample legroom, and a spacious trunk",
+                "Performance": "Efficient engine options and a smooth-shifting transmission"
+            },
+            "Specifications": {
+                "Engine": "Available in various gasoline, hybrid, and plug-in hybrid options",
+                "Transmission": "Automatic transmission",
+                "FuelEconomy": "Excellent fuel efficiency for its class, especially for hybrid and plug-in hybrid models",
+                "Dimensions": "Compact SUV size with a spacious interior",
+                "Interior": "Modern and comfortable interior with high-quality materials"
+            },
+            "Note": "For the most accurate and up-to-date information on the Hyundai IONIQ 6, it's recommended to visit the official Hyundai website or consult with a local dealership."
+        },
+        {
+            "Model": "IONIQ5",
+            "id": 6,
+            "ImageL": "www.somedomain.com",
+            "ImageS": "www.somedomain.com",
+            "Year": "2024",
+            "Description": "The Hyundai IONIQ 5 is a popular electric SUV known for its futuristic design, advanced technology, and impressive range.",
+            "Price": "$57000 - $60000",
+            "Features": {
+                "KeyFeatures": [
+                    "168kW Electric motor + 77.4kWh lithium-ion polymer high-voltage battery",
+                    "Ultra fast charging system (up to 800V/350 kW)",
+                    "Heat pump, battery thermal management, and preconditioning system",
+                    "Shift-by-Wire gear selector",
+                    "Drive Mode Select",
+                    "Regenerative braking system with steering-wheel mounted paddles",
+                    "4-wheel disc brakes",
+                    "Independent MacPherson strut suspension (front); Multi-link suspension (rear)",
+                    "Electronic Parking Brake with Vehicle AutoHold"
+                ],
+                "Safety": "Comes with a comprehensive suite of safety features, including automatic emergency braking, lane departure warning, and blind spot monitoring",
+                "Technology": "Features a large touchscreen infotainment system, advanced driver-assistance systems (ADAS), and over-the-air updates",
+                "Comfort": "Sleek and aerodynamic design with a futuristic interior",
+                "Performance": "Offers a balance of power and efficiency, with a smooth and quiet ride"
+            },
+            "Specifications": {
+                "Engine": "Electric motor providing instant torque and a smooth, quiet driving experience",
+                "Battery": "High-voltage battery pack that determines the vehicle's range and charging capabilities",
+                "Transmission": "Single-speed automatic transmission",
+                "FuelEconomy": "Energy-efficient design with a low energy consumption rating for its class",
+                "Dimensions": {
+                    "Length": "182.5 inches",
+                    "Width": "73.6 inches",
+                    "Height": "64.4 inches",
+                    "Wheelbase": "118.1 inches"
+                },
+                "Interior": "Modern and comfortable interior with high-quality materials"
+            },
+            "Note": "For the most accurate and up-to-date information on the Hyundai IONIQ 6, it's recommended to visit the official Hyundai website or consult with a local dealership."
+        },
+        {
+            "Model": "Elantra",
+            "id": 7,
+            "ImageL": "www.somedomain.com",
+            "ImageS": "www.somedomain.com",
+            "Year": "2025",
+            "Description": "The 2025 Hyundai Elantra is a compact sedan known for its stylish design, fuel efficiency, and advanced technology. It offers a comfortable and refined driving experience, making it a popular choice in the segment.",
+            "Price": "$24000 – $33000",
+            "Features": {
+                "KeyFeatures": [
+                    "Smart stream 2.0L MPI 4-cylinder engine",
+                    "8.0\" Touch-screen display with Android Auto™ & Apple CarPlay™",
+                    "Heated front seats",
+                    "Forward Collision-Avoidance Assist (FCA) with Pedestrian and Cyclist Detection",
+                    "Lane Following Assist",
+                    "Lane Keeping Assist (LKA)",
+                    "LED headlights (MFR type)"
+                ],
+                "Safety": "Advanced driver-assistance systems (ADAS) like lane departure warning, forward collision warning, and adaptive cruise control",
+                "Technology": "Touchscreen infotainment system with Apple CarPlay and Android Auto compatibility, Bluetooth connectivity, and available wireless charging",
+                "Comfort": "Comfortable seating, ample legroom, and a spacious trunk",
+                "Performance": "Efficient engine options and a smooth-shifting transmission"
+            },
+            "Specifications": {
+                "Engine": "Available in various engine options, including gasoline and hybrid",
+                "Transmission": "Automatic or manual transmission options",
+                "FuelEconomy": "Excellent fuel efficiency for its class",
+                "Dimensions": "Compact size for easy maneuverability",
+                "Interior": "Modern and comfortable interior with ample space"
+            },
+            "Note": "For the most accurate and up-to-date information on the 2025 Hyundai Elantra, it's recommended to visit the official Hyundai website or consult with a local dealership."
+        },
+        {
+            "Model": "ElantraHybrid",
+            "id": 8,
+            "ImageL": "www.somedomain.com",
+            "ImageS": "www.somedomain.com",
+            "Year": "2025",
+            "Description": "The 2025 Hyundai Elantra Hybrid is a fuel-efficient compact sedan that combines a gasoline engine with an electric motor for enhanced performance and reduced emissions. It offers a comfortable and refined driving experience while delivering impressive fuel economy.",
+            "Price": "$22000 - $24000",
+            "HybridPackage": [
+                "Smartstream 1.6L GDI Atkinson Cycle DOHC in-line 4-cylinder hybrid engine",
+                "6-speed EcoShift Dual-Clutch Transmission",
+                "Multi-link rear suspension"
+            ],
+            "Features": {
+                "KeyFeatures": [
+                    "10.25\" colour touchscreen navigation system",
+                    "Sunroof, power tilt-and-slide",
+                    "10.25\" full digital display instrument cluster",
+                    "BlueLink® connected vehicle system",
+                    "Adaptive Cruise Control with traffic stop and go",
+                    "17\" alloy wheels",
+                    "Highway Driving Assist",
+                    "EPB - Electronic Parking Brake with autohold",
+                    "Digital Key",
+                    "Leatherette Seats",
+                    "Bose premium audio system with 8 speakers",
+                    "LED mirror-mounted turn signals"
+                ],
+                "Safety": "Advanced driver-assistance systems (ADAS) like lane departure warning, forward collision warning, and adaptive cruise control",
+                "Technology": "Touchscreen infotainment system with Apple CarPlay and Android Auto compatibility, Bluetooth connectivity, and available wireless charging",
+                "Comfort": "Comfortable seating, ample legroom, and a spacious trunk",
+                "Performance": "Efficient hybrid powertrain, smooth acceleration, and regenerative braking"
+            },
+            "Specifications": {
+                "Powertrain": "Hybrid powertrain combining a gasoline engine and an electric motor",
+                "Transmission": "Automatic transmission",
+                "FuelEconomy": "Excellent fuel efficiency, offering significant savings compared to traditional gasoline-powered vehicles",
+                "Range": "Electric-only mode for short distances, extending the overall range and reducing fuel consumption",
+                "Dimensions": "Compact size for easy maneuverability"
+            },
+            "Note": "For the most accurate and up-to-date information on the 2025 Hyundai Elantra Hybrid, it's recommended to visit the official Hyundai website or consult with a local dealership."
+        },
+        {
+            "Model": "Sonata",
+            "id": 9,
+            "ImageL": "www.somedomain.com",
+            "ImageS": "www.somedomain.com",
+            "Year": "2024",
+            "Description": "The 2024 Hyundai Sonata is a mid-size sedan known for its stylish design, comfortable interior, and advanced technology. It offers a balance of performance, efficiency, and value, making it a popular choice in its segment.",
+            "Price": "$35000 – $42000",
+            "Features": {
+                "KeyFeatures": [
+                    "Smartstream 2.5L GDI + MPI DOHC 16-valve Inline 4-cylinder engine",
+                    "8-speed Smartstream automatic transmission",
+                    "Available HTRAC™ All-Wheel Drive (AWD)",
+                    "Paddle shifters",
+                    "Shift-by-Wire (SBW) gear selector",
+                    "Drive Mode Select",
+                    "18\" aluminum alloy Wheels"
+                ],
+                "Safety": "Advanced driver-assistance systems (ADAS) like lane departure warning, forward collision warning, and adaptive cruise control",
+                "Technology": "Touchscreen infotainment system with Apple CarPlay and Android Auto compatibility, Bluetooth connectivity, and available wireless charging",
+                "Comfort": "Comfortable seating, ample legroom, and a spacious trunk",
+                "Performance": "Efficient engine options and a smooth-shifting transmission"
+            },
+            "Specification": {
+                "Engine": "Available in various engine options, including gasoline and hybrid",
+                "Transmission": "Automatic or manual transmission options",
+                "FuelEconomy": "Excellent fuel efficiency for its class",
+                "Dimensions": "Mid-size sedan with ample interior space",
+                "Interior": "Modern and comfortable interior with high-quality materials"
+            },
+            "Note": "For the most accurate and up-to-date information on the 2024 Hyundai Sonata, it's recommended to visit the official Hyundai website or consult with a local dealership."
+        },
+        {
+            "Model": "IONIQ6",
+            "id": 10,
+            "ImageL": "www.somedomain.com",
+            "ImageS": "www.somedomain.com",
+            "Year": "2025",
+            "Description": "The Hyundai IONIQ 6 is a sleek and aerodynamic electric sedan designed to offer a futuristic driving experience. It's known for its futuristic design, advanced technology, and impressive range.",
+            "Price": "$55000 – $61000",
+            "Features": {
+                "KeyFeatures": [
+                    "168kW Electric motor + 77.4kWh lithium-ion polymer high-voltage battery",
+                    "Ultra fast charging system (up to 800V/350 kW)",
+                    "Heat pump, battery thermal management, and preconditioning system",
+                    "Shift-by-Wire gear selector",
+                    "Drive Mode Select",
+                    "Regenerative braking system with steering-wheel mounted paddles",
+                    "4-wheel disc brakes",
+                    "Independent MacPherson strut suspension (front); Multi-link suspension (rear)",
+                    "Electronic Parking Brake with Vehicle AutoHold"
+                ],
+                "Safety": "Advanced driver-assistance systems (ADAS) like lane departure warning, forward collision warning, and adaptive cruise control",
+                "Technology": "Touchscreen infotainment system with Apple CarPlay and Android Auto compatibility, Bluetooth connectivity, and available wireless charging",
+                "Comfort": "Comfortable seating, ample legroom, and a spacious trunk",
+                "Performance": "Efficient engine options and a smooth-shifting transmission"
+            },
+            "Specifications": {
+                "Powertrain": "Electric motor with a high-voltage battery pack",
+                "Range": "Varies depending on driving conditions and options, but typically offers a competitive range for an electric sedan",
+                "Charging": "Supports both standard and fast charging",
+                "Performance": "Offers a balance of power and efficiency",
+                "Dimensions": "Mid-size sedan with a sleek and aerodynamic profile"
+            },
+            "Note": "For the most accurate and up-to-date information on the Hyundai IONIQ 6, it's recommended to visit the official Hyundai website or consult with a local dealership."
+        },
+        {
+            "Model": "TUCSON",
+            "id": 11,
+            "ImageL": "www.somedomain.com",
+            "ImageS": "www.somedomain.com",
+            "Year": "2025",
+            "Description": "The 2025 Hyundai Tucson is a compact SUV known for its stylish design, comfortable interior, and advanced technology. It offers a versatile and practical driving experience, making it a popular choice in the SUV segment.",
+            "Price": "$37000 – $55000",
+            "Features": {
+                "KeyFeatures": [
+                    "Smartstream 2.5L GDI + MPI DOHC 16-valve Inline 4-cylinder engine",
+                    "HTRAC™ All-Wheel Drive (AWD)",
+                    "8-speed automatic transmission",
+                    "Engine idle stop & go",
+                    "Paddle shifters",
+                    "Shift-by-Wire gear selector",
+                    "Drive Mode Select",
+                    "Electric Parking Brake"
+                ],
+                "Safety": "Advanced driver-assistance systems (ADAS) like lane departure warning, forward collision warning, and adaptive cruise control",
+                "Technology": "Touchscreen infotainment system with Apple CarPlay and Android Auto compatibility, Bluetooth connectivity, and available wireless charging",
+                "Comfort": "Comfortable seating, ample legroom, and a spacious trunk",
+                "Performance": "Efficient engine options and a smooth-shifting transmission"
+            },
+            "Specifications": {
+                "Engine": "Available in various gasoline, hybrid, and plug-in hybrid options",
+                "Transmission": "Automatic transmission",
+                "FuelEconomy": "Excellent fuel efficiency for its class, especially for hybrid and plug-in hybrid models",
+                "Dimensions": "Compact SUV size with a spacious interior",
+                "Interior": "Modern and comfortable interior with high-quality materials"
+            },
+            "Note": "For the most accurate and up-to-date information on the Hyundai IONIQ 6, it's recommended to visit the official Hyundai website or consult with a local dealership."
+        },
+        {
+            "Model": "IONIQ5",
+            "id": 12,
+            "ImageL": "www.somedomain.com",
+            "ImageS": "www.somedomain.com",
+            "Year": "2024",
+            "Description": "The Hyundai IONIQ 5 is a popular electric SUV known for its futuristic design, advanced technology, and impressive range.",
+            "Price": "$57000 - $60000",
+            "Features": {
+                "KeyFeatures": [
+                    "168kW Electric motor + 77.4kWh lithium-ion polymer high-voltage battery",
+                    "Ultra fast charging system (up to 800V/350 kW)",
+                    "Heat pump, battery thermal management, and preconditioning system",
+                    "Shift-by-Wire gear selector",
+                    "Drive Mode Select",
+                    "Regenerative braking system with steering-wheel mounted paddles",
+                    "4-wheel disc brakes",
+                    "Independent MacPherson strut suspension (front); Multi-link suspension (rear)",
+                    "Electronic Parking Brake with Vehicle AutoHold"
+                ],
+                "Safety": "Comes with a comprehensive suite of safety features, including automatic emergency braking, lane departure warning, and blind spot monitoring",
+                "Technology": "Features a large touchscreen infotainment system, advanced driver-assistance systems (ADAS), and over-the-air updates",
+                "Comfort": "Sleek and aerodynamic design with a futuristic interior",
+                "Performance": "Offers a balance of power and efficiency, with a smooth and quiet ride"
+            },
+            "Specifications": {
+                "Engine": "Electric motor providing instant torque and a smooth, quiet driving experience",
+                "Battery": "High-voltage battery pack that determines the vehicle's range and charging capabilities",
+                "Transmission": "Single-speed automatic transmission",
+                "FuelEconomy": "Energy-efficient design with a low energy consumption rating for its class",
+                "Dimensions": {
+                    "Length": "182.5 inches",
+                    "Width": "73.6 inches",
+                    "Height": "64.4 inches",
+                    "Wheelbase": "118.1 inches"
+                },
+                "Interior": "Modern and comfortable interior with high-quality materials"
+            },
+            "Note": "For the most accurate and up-to-date information on the Hyundai IONIQ 6, it's recommended to visit the official Hyundai website or consult with a local dealership."
+        }
+    ]
+}
